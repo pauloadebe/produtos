@@ -5,7 +5,7 @@
             "name": "Produto 1",
             "price": "$100",
             "location": "Maputo, Moçambique",
-            "image": "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/airpod.png",
             "images": [
                 "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
