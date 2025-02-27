@@ -17,8 +17,8 @@
                 "Marca": "Apple",
                 "Modelo": "AirPods Pro",
                 "Conectividade": "Bluetooth",
-                 "Conectividade": "Bluetooth",
-                     "Conectividade": "Bluetooth",
+                 "Rede": "Bluetooth",
+                     "Performance": "Bluetooth",
                 "Bateria": "Até 4,5 horas"
             }
         },
