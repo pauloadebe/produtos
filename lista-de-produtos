@@ -1,3 +1,4 @@
+
 {
     "products": [
         {
@@ -11,10 +12,15 @@
                 "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg"
             ],
-            "description": "Descrição detalhada do produto 1."
+            "description": "Descrição detalhada do produto 1.",
+            "specifications": {
+                "Marca": "Apple",
+                "Modelo": "AirPods Pro",
+                "Conectividade": "Bluetooth",
+                "Bateria": "Até 4,5 horas"
+            }
         },
-
-           {
+        {
             "id": 2,
             "name": "iphone",
             "price": "27.000MT",
@@ -25,10 +31,15 @@
                 "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg"
             ],
-            "description": "Descrição detalhada do produto 1."
+            "description": "Descrição detalhada do produto 2.",
+            "specifications": {
+                "Marca": "Apple",
+                "Modelo": "iPhone 13",
+                "Armazenamento": "128GB",
+                "Câmera": "12MP"
+            }
         },
-
-           {
+        {
             "id": 3,
             "name": "Macbook",
             "price": "48.800MT",
@@ -39,10 +50,15 @@
                 "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg"
             ],
-            "description": "Descrição detalhada do produto 1."
+            "description": "Descrição detalhada do produto 3.",
+            "specifications": {
+                "Marca": "Apple",
+                "Modelo": "MacBook Air",
+                "Processador": "M1",
+                "Memória RAM": "8GB"
+            }
         },
-
-   {
+        {
             "id": 4,
             "name": "xbox",
             "price": "64.200MT",
@@ -53,20 +69,14 @@
                 "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg"
             ],
-            "description": "Descrição detalhada do produto 1."
-        },
-            {
-            "id": 5,
-            "name": "Produto 2",
-            "price": "$200",
-            "location": "Maputo, Moçambique",
-            "image": "https://via.placeholder.com/150",
-            "images": [
-                "https://via.placeholder.com/300",
-                "https://via.placeholder.com/300",
-                "https://via.placeholder.com/300"
-            ],
-            "description": "Descrição detalhada do produto 1."
+            "description": "Descrição detalhada do produto 4.",
+            "specifications": {
+                "Marca": "Microsoft",
+                "Modelo": "Xbox Series X",
+                "Armazenamento": "1TB SSD",
+                "Resolução": "4K"
+            }
         }
     ]
 }
+
