@@ -58,9 +58,12 @@
             "location": "Maputo, Moçambique",
             "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/macbook.png",
             "images": [
-                "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack12.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack45.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack46.jpg",
             ],
             "description": "Descrição detalhada do produto 3.",
             "specifications": {
