@@ -22,19 +22,25 @@
                 "Conectividade": "Bluetooth",
                  "Rede": "Bluetooth",
                      "Performance": "Bluetooth",
-                "Bateria": "Até 4,5 horas"
+                "Bateria": "Até 4,5 horas",
+                "Localização": "Maputo"
             }
         },
         {
             "id": 2,
-            "name": "iphone",
+            "name": "iphone 13",
             "price": "27.000MT",
             "location": "Maputo, Moçambique",
             "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone.png",
             "images": [
-                "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone15.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone16.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone18.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone19.jpg"
+                " https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone3.jpg"
+                   
             ],
             "description": "Descrição detalhada do produto 2.",
             "specifications": {
@@ -42,6 +48,7 @@
                 "Modelo": "iPhone 13",
                 "Armazenamento": "128GB",
                 "Câmera": "12MP"
+                 "Localização": "Maputo"
             }
         },
         {
