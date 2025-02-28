@@ -61,7 +61,7 @@ de Ruído, Modo Ambiente, áudio espacial e resistência à água (IPX4). Oferec
                 "Marca": "Apple",
                 "Modelo": "iPhone 13",
                 "Armazenamento": "128GB",
-                "Câmera": "12MP"
+                "Câmera": "12MP",
                  "Localização": "Maputo"
             }
         },
@@ -95,7 +95,7 @@ de Ruído, Modo Ambiente, áudio espacial e resistência à água (IPX4). Oferec
                 "Marca": "Apple",
                 "Modelo": "MacBook Air",
                 "Processador": "M1",
-                "Memória RAM": "8GB"
+                "Memória RAM": "8GB",
                 "Localização": "Maputo"
             }
         },
@@ -129,7 +129,7 @@ de Ruído, Modo Ambiente, áudio espacial e resistência à água (IPX4). Oferec
                 "Marca": "Microsoft",
                 "Modelo": "Xbox Series X",
                 "Armazenamento": "1TB SSD",
-                "Resolução": "4K"
+                "Resolução": "4K",
                 "Localização": "Maputo"
             }
         }
