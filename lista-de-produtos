@@ -10,9 +10,9 @@
             "images": [
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air2.jpg"
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air3.jpg"
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air4.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air4.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air2.jpg"
             ],
             "description": "Descrição detalhada do produt 1.",
@@ -63,7 +63,7 @@
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack3.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack4.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack45.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack46.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack46.jpg"
             ],
             "description": "Descrição detalhada do produto 3.",
             "specifications": {
@@ -71,6 +71,7 @@
                 "Modelo": "MacBook Air",
                 "Processador": "M1",
                 "Memória RAM": "8GB"
+                "Localização": "Maputo"
             }
         },
         {
@@ -80,9 +81,15 @@
             "location": "Maputo, Moçambique",
             "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox.png",
             "images": [
-                "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox2.jpg,
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox6.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox7.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox8.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox9.jpg"
             ],
             "description": "Descrição detalhada do produto 4.",
             "specifications": {
@@ -90,6 +97,7 @@
                 "Modelo": "Xbox Series X",
                 "Armazenamento": "1TB SSD",
                 "Resolução": "4K"
+                "Localização": "Maputo"
             }
         }
     ]
