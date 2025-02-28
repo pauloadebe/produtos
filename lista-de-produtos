@@ -1,4 +1,3 @@
-
 {
     "products": [
         {
@@ -15,15 +14,11 @@
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air4.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air2.jpg"
             ],
-            "description": "Este AirPods Pro é um fone de ouvido sem fio premium da Apple com Cancelamento Ativo
-de Ruído, Modo Ambiente, áudio espacial e resistência à água (IPX4). Oferece até 6 horas de bateria 
-(30h com estojo), ajuste confortável com pontas de silicone e conexão rápida via chip H1.",
+            "description": "Este AirPods Pro é um fone de ouvido sem fio premium da Apple com Cancelamento Ativo de Ruído, Modo Ambiente, áudio espacial e resistência à água (IPX4). Oferece até 6 horas de bateria (30h com estojo), ajuste confortável com pontas de silicone e conexão rápida via chip H1.",
             "specifications": {
                 "Marca": "Apple",
                 "Modelo": "AirPods Pro",
                 "Conectividade": "Bluetooth",
-                 "Rede": "Bluetooth",
-                     "Performance": "Bluetooth",
                 "Bateria": "Até 4,5 horas",
                 "Localização": "Maputo"
             }
@@ -37,32 +32,19 @@ de Ruído, Modo Ambiente, áudio espacial e resistência à água (IPX4). Oferec
             "images": [
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone15.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone15.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone16.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone18.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone19.jpg",
-                " https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone3.jpg"
-                   
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone3.jpg"
             ],
-            "description": "O iPhone 13 é a combinação perfeita de desempenho, design e inovação. 
-            Com uma tela Super Retina XDR de 6,1 polegadas, cores vibrantes e brilho intenso, ele oferece uma 
-            experiência visual incrível. Equipado com o potente chip A15 Bionic, garante velocidade e eficiência 
-            em tudo o que você faz.
-            
-            A câmera dupla avançada de 12 MP captura fotos e vídeos impressionantes, com modo Noite, HDR 
-            Inteligente 4 e o revolucionário Modo Cinema, que traz um efeito profissional para seus vídeos
-            . Além disso, a bateria tem duração estendida, permitindo que você aproveite o dia inteiro sem 
-            preocupações.
-            
-            Com design elegante, resistência à água e ao pó (IP68) e 
-            compatibilidade com 5G, o iPhone 13 é a escolha ideal para quem busca tecnologia
-            de ponta e um desempenho impecável!",
+            "description": "O iPhone 13 é a combinação perfeita de desempenho, design e inovação. Com uma tela Super Retina XDR de 6,1 polegadas, cores vibrantes e brilho intenso, ele oferece uma experiência visual incrível. Equipado com o potente chip A15 Bionic, garante velocidade e eficiência em tudo o que você faz.",
             "specifications": {
                 "Marca": "Apple",
                 "Modelo": "iPhone 13",
                 "Armazenamento": "128GB",
                 "Câmera": "12MP",
-                 "Localização": "Maputo"
+                "Localização": "Maputo"
             }
         },
         {
@@ -79,18 +61,7 @@ de Ruído, Modo Ambiente, áudio espacial e resistência à água (IPX4). Oferec
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack45.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack46.jpg"
             ],
-            "description": "Projetado para oferecer desempenho excepcional, ele combina um design 
-            ultrafino e leve com hardware de última geração, ideal para produtividade e criatividade.
-            
-            Equipado com os processadores Apple Silicon, como o M1 ou M2, ele proporciona velocidade 
-            incrível, eficiência energética e uma bateria de longa duração, permitindo trabalhar ou criar
-            sem interrupções. Sua tela Retina exibe cores vibrantes e detalhes impressionantes, garantindo 
-            uma experiência visual imersiva.
-            
-            O teclado confortável e responsivo, os alto-falantes com áudio imersivo e a compatibilidade 
-            com os mais avançados softwares tornam o MacBook a escolha perfeita para estudantes, 
-            profissionais e criadores de conteúdo. Seja para trabalhar, estudar ou criar, ele oferece
-            o melhor da tecnologia Apple em um só dispositivo!",
+            "description": "Projetado para oferecer desempenho excepcional, ele combina um design ultrafino e leve com hardware de última geração, ideal para produtividade e criatividade.",
             "specifications": {
                 "Marca": "Apple",
                 "Modelo": "MacBook Air",
@@ -107,7 +78,7 @@ de Ruído, Modo Ambiente, áudio espacial e resistência à água (IPX4). Oferec
             "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox.png",
             "images": [
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox2.jpg,
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox2.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox3.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox4.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox5.jpg",
@@ -116,15 +87,7 @@ de Ruído, Modo Ambiente, áudio espacial e resistência à água (IPX4). Oferec
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox8.jpg",
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox9.jpg"
             ],
-            "description": "Com gráficos de alta qualidade, carregamento ultrarrápido e uma biblioteca repleta de
-            títulos incríveis, ele é a escolha perfeita para jogadores casuais e hardcore.
-            
-            Equipado com hardware poderoso, como processadores de última geração e tecnologia de
-            Ray Tracing, o Xbox entrega visuais realistas e uma jogabilidade fluida. Além disso, o 
-            Game Pass oferece acesso a centenas de jogos, permitindo explorar novos mundos sem limites.
-            
-            Seja para jogar sozinho, competir online ou aproveitar títulos exclusivos,
-            o Xbox transforma cada partida em uma experiência imersiva. Prepare-se para o próximo nível dos games!",
+            "description": "Com gráficos de alta qualidade, carregamento ultrarrápido e uma biblioteca repleta de títulos incríveis, ele é a escolha perfeita para jogadores casuais e hardcore.",
             "specifications": {
                 "Marca": "Microsoft",
                 "Modelo": "Xbox Series X",
@@ -135,4 +98,3 @@ de Ruído, Modo Ambiente, áudio espacial e resistência à água (IPX4). Oferec
         }
     ]
 }
-
