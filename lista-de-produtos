@@ -8,9 +8,12 @@
             "location": "Maputo, Moçambique",
             "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/airpod.png",
             "images": [
-                "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/exame-de-conducao/refs/heads/main/images/im1.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air2.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air3.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air4.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air2.jpg"
             ],
             "description": "Descrição detalhada do produt 1.",
             "specifications": {
