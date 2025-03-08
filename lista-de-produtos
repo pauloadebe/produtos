@@ -2,72 +2,66 @@
     "products": [
         {
             "id": 1,
-            "name": "airpod",
-            "price": "1.200MT",
+            "name": "Samsung S22 Ultra | Smartphone",
+            "price": "40.000MT",
             "location": "Maputo, Moçambique",
-            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/airpod.png",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/s22-1.jpg",
             "images": [
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air2.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air3.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air4.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/air2.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/s22-1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/s22-2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/s1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/s22-3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/s22-4.jpg"
             ],
-            "description": "Este AirPods Pro é um fone de ouvido sem fio premium da Apple com Cancelamento Ativo de Ruído, Modo Ambiente, áudio espacial e resistência à água (IPX4). Oferece até 6 horas de bateria (30h com estojo), ajuste confortável com pontas de silicone e conexão rápida via chip H1.",
+            "description": "Eleve sua experiência móvel ao máximo com o Samsung Galaxy S22 Ultra! Equipado com um processador ultrarrápido, tela Dynamic AMOLED 2X de 6,8” com taxa de atualização de 120Hz e uma câmera revolucionária de 108MP, este smartphone redefine o que significa qualidade. Além disso, vem com a lendária S Pen integrada, oferecendo produtividade e precisão como nunca antes. Seja para jogar, criar conteúdo ou trabalhar, este é o topo de linha que você merece!",
             "specifications": {
-                "Marca": "Apple",
-                "Modelo": "AirPods Pro",
-                "Conectividade": "Bluetooth",
-                "Bateria": "Até 4,5 horas",
-                "Localização": "Maputo"
+                "Memoria RAM": "12GB",
+                "Armazenamento": "256GB",
+                "SIM": "Dual"
             }
         },
+
         {
             "id": 2,
-            "name": "iphone 13",
-            "price": "27.000MT",
+            "name": " Monitor AOC U2790VQ 27” ",
+            "price": "16.500MT",
             "location": "Maputo, Moçambique",
-            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone.png",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mon4.jpg",
             "images": [
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone15.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone16.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone18.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone19.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/iphone3.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mon4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mon2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mon3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mon1.jpg"
+                
             ],
-            "description": "O iPhone 13 é a combinação perfeita de desempenho, design e inovação. Com uma tela Super Retina XDR de 6,1 polegadas, cores vibrantes e brilho intenso, ele oferece uma experiência visual incrível. Equipado com o potente chip A15 Bionic, garante velocidade e eficiência em tudo o que você faz.",
+            "description": "Experimente imagens nítidas e cores vibrantes com o Monitor AOC 27”! Ideal para gamers, designers e profissionais, este monitor Full HD oferece uma experiência visual impressionante, com painel IPS para ângulos de visão amplos e tecnologia de taxa de atualização aprimorada. Trabalhe, jogue ou assista a conteúdos com conforto e fluidez, sem atrasos ou distorções. Transforme seu setup com este gigante da qualidade!",
             "specifications": {
-                "Marca": "Apple",
-                "Modelo": "iPhone 13",
-                "Armazenamento": "128GB",
-                "Câmera": "12MP",
-                "Localização": "Maputo"
+                "Display": "3840x2160 UHD, IPS, 5ms",
+                "Entradas": " DisplayPort 1.2, HDMI 2.0, USB",
+                "Tamanho": "27” ",
+                "Resolução": "4K "
+                
             }
         },
         {
             "id": 3,
-            "name": "Macbook",
-            "price": "48.800MT",
+            "name": "PS5 SLIM",
+            "price": "35.000MT",
             "location": "Maputo, Moçambique",
-            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/macbook.png",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ps1.jpg",
             "images": [
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack12.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack3.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack4.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack45.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack46.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ps1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ps2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ps3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ps4.jpg"
             ],
-            "description": "Projetado para oferecer desempenho excepcional, ele combina um design ultrafino e leve com hardware de última geração, ideal para produtividade e criatividade.",
+            "description": "Prepare-se para uma nova era de jogos com o PS5 Slim Digital Edition! Com um design mais compacto, este console traz toda a potência da nova geração: SSD ultrarrápido, gráficos em 4K, suporte para Ray Tracing e um controle DualSense inovador que oferece imersão total com feedback tátil e gatilhos adaptáveis. Baixe seus jogos diretamente da PlayStation Store e mergulhe em experiências inesquecíveis. O futuro dos games começa agora!",
             "specifications": {
-                "Marca": "Apple",
-                "Modelo": "MacBook Air",
-                "Processador": "M1",
-                "Memória RAM": "8GB",
-                "Localização": "Maputo"
+                "Versão": "DIGITAL",
+                "Controle": "1 Joy - camuflagem",
+                "Jogos online": "3",
+                "+": "FIFA25, GTA5"
+                
             }
         },
 {
@@ -97,29 +91,59 @@
 
         {
             "id": 5,
-            "name": "xbox",
-            "price": "64.200MT",
+            "name": "Lenovo Ideapad Slim 3i | Laptop",
+            "price": "26.500MT",
             "location": "Maputo, Moçambique",
-            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox.png",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len1.jpg",
             "images": [
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox1.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox2.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox3.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox4.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox5.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox6.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox7.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox8.jpg",
-                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/xbox9.jpg"
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len6.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len7.jpg"
             ],
-            "description": "Com gráficos de alta qualidade, carregamento ultrarrápido e uma biblioteca repleta de títulos incríveis, ele é a escolha perfeita para jogadores casuais e hardcore.",
+            "description": "Produtividade e leveza se encontram no Lenovo IdeaPad Slim 3i! Equipado com um processador potente, armazenamento SSD ultrarrápido e bateria de longa duração, este laptop é ideal para estudantes, profissionais e qualquer pessoa que precise de um notebook confiável e eficiente. Sua tela de alta resolução oferece conforto visual, enquanto seu design compacto permite levá-lo para qualquer lugar. Trabalhe, estude e navegue com estilo e desempenho!",
             "specifications": {
-                "Marca": "Microsoft",
-                "Modelo": "Xbox Series X",
-                "Armazenamento": "1TB SSD",
-                "Resolução": "4K",
-                "Localização": "Maputo"
+                "Processador": "12th Gen Intel core I5-12450H 2.00GHz",
+                "Memoria RAM": "8GB RAM DDR5 4800MHz",
+                "Armazenamento": "512GB SSD NVMe Gen4",
+                "Tela": "15.6” FHD By 1080 IPS painel 60Hz ",
+                "Teclado": "Numérico",
+                "Gráfica": "Intel UHD Graphics ",
+                "Input/Output": "USB 3.0 Type C 3.1 Gen3 HDMi  card reader SD",
+                "Bateria": "Autonomia excelente de carga"
+            }
+        },
+
+        {
+            "id": 6,
+            "name": "ACER Aspire3A315-35C7Mx | Laptop",
+            "price": "21.500MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep1.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep6.jpg"
+               
+            ],
+            "description": "Seja para estudar, trabalhar ou se divertir, o Acer Aspire 3 A315 entrega o melhor custo-benefício! Com um hardware eficiente, este notebook combina desempenho sólido com um design moderno e funcional. A tela de alta definição garante imagens nítidas, enquanto o armazenamento rápido permite que você abra aplicativos e arquivos sem demora. Se você busca qualidade e confiabilidade, este é o notebook ideal para você!",
+            "specifications": {
+                "Processador": "Intel Celeron N4500 12Th Gen",
+                "Memoria RAM": "4GB RAM DDR4 ",
+                "Armazenamento": "128GB SSD NVMe",
+                "Tela": "15.6” FHD ",
+                "Teclado": "Numérico",
+                "Gráfica": "Intel UHD Graphics ",
+                "Bateria": "Autonomia excelente de carga",
+                "Estado": "Novo na caixa (aberto só pra verificação)"              
             }
         }
     ]
 }
+
