@@ -75,14 +75,14 @@
     "name": "Jet Ski",
     "price": "550.000MT",
     "location": "Maputo, Moçambique",
-    "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jato1.jpg",
+    "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jet1.jpg",
     "images": [
-        "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jato1.jpg",
-        "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jato2.jpg",
-        "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jato3.jpg",
-        "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mack4.jpg",
-        "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jato5.jpg",
-        "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jato6.jpg"
+        "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jet1.jpg",
+        "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jet2.jpg",
+        "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jet3.jpg",
+        "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jet4.jpg",
+        "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jet5.jpg",
+        "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/jet6.jpg"
     ],
     "description": "Emocione-se com velocidade, diversão e adrenalina.\nSe você busca emoção sobre as águas, estes Jet Skis são perfeitos para você! Com alto desempenho, design moderno e em ótimo estado de conservação, eles estão prontos para proporcionar momentos incríveis no mar, rio ou lago.",
     "specifications": {
