@@ -1,1 +1,127 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Samsung S22 Ultra | Smartphone",
+            "price": "40.000MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/s22-1.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/s22-1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/s22-2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/s1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/s22-3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/s22-4.jpg"
+            ],
+            "description": "Eleve sua experiência móvel ao máximo com o Samsung Galaxy S22 Ultra! Equipado com um processador ultrarrápido, tela Dynamic AMOLED 2X de 6,8” com taxa de atualização de 120Hz e uma câmera revolucionária de 108MP, este smartphone redefine o que significa qualidade. Além disso, vem com a lendária S Pen integrada, oferecendo produtividade e precisão como nunca antes. Seja para jogar, criar conteúdo ou trabalhar, este é o topo de linha que você merece!",
+            "specifications": {
+                "Memoria RAM": "12GB",
+                "Armazenamento": "256GB",
+                "SIM": "Dual"
+            }
+        },
+
+        {
+            "id": 2,
+            "name": " Monitor AOC U2790VQ 27” ",
+            "price": "16.500MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mon4.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mon4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mon2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mon3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mon1.jpg"
+                
+            ],
+            "description": "Experimente imagens nítidas e cores vibrantes com o Monitor AOC 27”! Ideal para gamers, designers e profissionais, este monitor Full HD oferece uma experiência visual impressionante, com painel IPS para ângulos de visão amplos e tecnologia de taxa de atualização aprimorada. Trabalhe, jogue ou assista a conteúdos com conforto e fluidez, sem atrasos ou distorções. Transforme seu setup com este gigante da qualidade!",
+            "specifications": {
+                "Display": "3840x2160 UHD, IPS, 5ms",
+                "Entradas": " DisplayPort 1.2, HDMI 2.0, USB",
+                "Tamanho": "27” ",
+                "Resolução": "4K "
+                
+            }
+        },
+        {
+            "id": 3,
+            "name": "PS5 SLIM",
+            "price": "35.000MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ps1.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ps1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ps2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ps3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ps4.jpg"
+            ],
+            "description": "Prepare-se para uma nova era de jogos com o PS5 Slim Digital Edition! Com um design mais compacto, este console traz toda a potência da nova geração: SSD ultrarrápido, gráficos em 4K, suporte para Ray Tracing e um controle DualSense inovador que oferece imersão total com feedback tátil e gatilhos adaptáveis. Baixe seus jogos diretamente da PlayStation Store e mergulhe em experiências inesquecíveis. O futuro dos games começa agora!",
+            "specifications": {
+                "Versão": "DIGITAL",
+                "Controle": "1 Joy - camuflagem",
+                "Jogos online": "3",
+                "+": "FIFA25, GTA5"
+                
+            }
+        },
+
+
+        {
+            "id": 4,
+            "name": "Lenovo Ideapad Slim 3i | Laptop",
+            "price": "26.500MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len1.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len6.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/len7.jpg"
+            ],
+            "description": "Produtividade e leveza se encontram no Lenovo IdeaPad Slim 3i! Equipado com um processador potente, armazenamento SSD ultrarrápido e bateria de longa duração, este laptop é ideal para estudantes, profissionais e qualquer pessoa que precise de um notebook confiável e eficiente. Sua tela de alta resolução oferece conforto visual, enquanto seu design compacto permite levá-lo para qualquer lugar. Trabalhe, estude e navegue com estilo e desempenho!",
+            "specifications": {
+                "Processador": "12th Gen Intel core I5-12450H 2.00GHz",
+                "Memoria RAM": "8GB RAM DDR5 4800MHz",
+                "Armazenamento": "512GB SSD NVMe Gen4",
+                "Tela": "15.6” FHD By 1080 IPS painel 60Hz ",
+                "Teclado": "Numérico",
+                "Gráfica": "Intel UHD Graphics ",
+                "Input/Output": "USB 3.0 Type C 3.1 Gen3 HDMi  card reader SD",
+                "Bateria": "Autonomia excelente de carga"
+            }
+        },
+
+        {
+            "id": 5,
+            "name": "ACER Aspire3A315-35C7Mx | Laptop",
+            "price": "21.500MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep1.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep6.jpg"
+               
+            ],
+            "description": "Seja para estudar, trabalhar ou se divertir, o Acer Aspire 3 A315 entrega o melhor custo-benefício! Com um hardware eficiente, este notebook combina desempenho sólido com um design moderno e funcional. A tela de alta definição garante imagens nítidas, enquanto o armazenamento rápido permite que você abra aplicativos e arquivos sem demora. Se você busca qualidade e confiabilidade, este é o notebook ideal para você!",
+            "specifications": {
+                "Processador": "Intel Celeron N4500 12Th Gen",
+                "Memoria RAM": "4GB RAM DDR4 ",
+                "Armazenamento": "128GB SSD NVMe",
+                "Tela": "15.6” FHD ",
+                "Teclado": "Numérico",
+                "Gráfica": "Intel UHD Graphics ",
+                "Bateria": "Autonomia excelente de carga",
+                "Estado": "Novo na caixa (aberto só pra verificação)"              
+            }
+        }
+    ]
+}
+
 
