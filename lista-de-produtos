@@ -143,7 +143,136 @@
                 "Bateria": "Autonomia excelente de carga",
                 "Estado": "Novo na caixa (aberto só pra verificação)"              
             }
+        },
+        {
+            "id": 7,
+            "name": "Honda Fit Rs | Carro",
+            "price": "300.000M | Negociavel",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/fit1.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/fit1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/fit2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/fit3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/fit4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/fit5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/fit6.jpg"
+               
+            ],
+            "description": "Se procura um carro que combine estilo, eficiência e desempenho, este Honda Fit RS é a escolha certa! Com um design aerodinâmico e um motor ágil, ele oferece uma condução dinâmica e econômica, ideal para o dia a dia na cidade e aventuras na estrada. O interior surpreende com espaço amplo, conforto e tecnologia de ponta, garantindo praticidade e segurança em cada trajeto. Um carro compacto por fora, mas gigante em possibilidades!",
+            "specifications": {
+                "Motor": "1.5 i-vtec Triptronic",
+                "Modelo": "2009",
+                "Segurança": "Armrest",
+                "Quilometragem": "58.685",
+                "Rádio": "CD, USB & Bluetooth",
+                "Luzes": "Automáticas  ",
+                "Faróis": "Smokes, Zenon Light",
+                "Style": "Full Body KitFull Body Kit",
+                "Stops": "Led",
+                "Jantes": "Especiais",              
+                "Pneus": "Novos (Dunlop)" ,             
+                "Taxas pagas": "Seguros"              
+            }
+        },
+        {
+            "id": 8,
+            "name": "Toyota Ractis |  Recém importado ",
+            "price": "360.000MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ractiz6.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ractiz1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ractiz2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ractiz3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ractiz4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ractiz5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ractiz6.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ractiz7.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ractiz8.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/ractiz9.jpg"
+               
+            ],
+            "description": "Este Ractis é perfeito para quem quer um carro versátil e econômico, sem abrir mão do conforto. Com um interior surpreendentemente espaçoso, ele acomoda passageiros e bagagens com facilidade, tornando cada viagem mais agradável. Seu motor eficiente e confiável garante uma condução suave e econômica, ideal tanto para o trânsito urbano quanto para viagens mais longas. Prático, moderno e pronto para facilitar o seu dia a dia!",
+            "specifications": {
+                "Motor": "1.5",
+                "Modelo": "2008",
+                "Quilometragem": "77km",
+                "Matrícula": "AKH ",
+                "Estado": "Novinho",
+                "suspensão": "Boa",
+                "Start": "Botão",
+                "Interior": "Top",
+                "Style": "Full Body Kit",
+                "Jantes": "Especiais, R15"                                
+            }
+        },
+        {
+            "id": 9,
+            "name": "Kia Cerato",
+            "price": "480.000MT | Negociável",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia1.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia6.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia7.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia8.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia9.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia10.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia11.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia12.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia13.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/kia14.jpg"
+               
+            ],
+            "description": "Se valoriza sofisticação e desempenho, este Kia Cerato é feito para si! Com um design moderno e imponente, ele impressiona por onde passa. O motor potente e eficiente proporciona uma condução prazerosa, enquanto o interior luxuoso oferece acabamentos premium e tecnologia avançada para tornar cada viagem ainda mais confortável. Segurança, inovação e estilo reunidos em um sedan que supera expectativas!",
+            "specifications": {
+                "Motor": "1.6cc",
+                "Modelo": "2013",
+                "Quilometragem": "120.000km",
+                "Matrícula": "AKH ",
+                "Estado": "Novinho",
+                "suspensão": "Intacta",
+                "Interior": "Top"
+                             
+            }
+        },
+        {
+            "id": 10,
+            "name": "Mazda CX-5",
+            "price": "650.000MT | Negociável",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mazda.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mazda.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mazda1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mazda2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mazda3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mazda4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mazda5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mazda6.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mazda7.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mazda8.jpg"
+               
+            ],
+            "description": "Este Mazda CX-5 é mais do que um SUV, é uma experiência de condução incomparável! Com um design sofisticado e robusto, ele combina potência, tecnologia e conforto em um só veículo. O motor potente garante um desempenho excepcional em qualquer tipo de estrada, enquanto o interior refinado oferece espaço amplo, materiais premium e um nível de conforto superior. Um carro para quem busca estilo, segurança e aventura em cada viagem!",
+            "specifications": {
+                "Motor": "2.2cc",
+                "Modelo": "2012",
+                "Start": "Botão",
+                "AC": "Dual zone",
+                "Interior": "Creme, Leatherseat’s, Botões no volante ",
+                "Documentação": "Sensores de estacionamento" ,
+                "Tech": "Legal" ,
+                "Jantes": "Especiais"              
+            }
         }
+        
     ]
 }
 
