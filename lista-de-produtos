@@ -490,6 +490,25 @@
                 "Tech": "Tv por trás dos acentos,  Sunroof , Botões no volante , Comando no volante, Sensor de estacionamento" ,
                 "-": "Comprado no agente Motor Care"              
             }
+        },
+        {
+            "id": 13,
+            "name": "TV LG 55”",
+            "price": "28.000MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/tvlg.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/tvlg.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/tvlg1.jpg"
+               
+            ],
+            "description": "Smart TV LG de 55”, com imagem nítida, som potente e acesso a apps como Netflix e YouTube. Conta com entradas HDMI e USB para conectar dispositivos. Usada, mas em ótimo funcionamento, sem defeitos na tela ou no sistema.Aproveite",
+            "specifications": {
+                "Modelo": " 55lh595v SUL AFRICANA",
+                "Tech": "SMART FHD"
+
+                           
+            }
         }
         
     ]
