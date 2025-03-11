@@ -67,7 +67,7 @@
 
 
         {
-            "id": 4,
+            "id": 5,
             "name": "Lenovo Ideapad Slim 3i | Laptop",
             "price": "26.500MT",
             "location": "Maputo, Moçambique",
@@ -95,7 +95,7 @@
         },
 
         {
-            "id": 5,
+            "id": 6,
             "name": "ACER Aspire3A315-35C7Mx | Laptop",
             "price": "21.500MT",
             "location": "Maputo, Moçambique",
@@ -123,7 +123,7 @@
         },
 
         {
-            "id": 6,
+            "id": 11,
             "name": "HP 255 G10 RYZEN 3 7330u | Laptop",
             "price": "33.000MT",
             "location": "Maputo, Moçambique",
@@ -148,7 +148,7 @@
         },
 
         {
-            "id": 7,
+            "id": 12,
             "name": "SSD SATA 256GB",
             "price": "1.800MT",
             "location": "Maputo, Moçambique",
@@ -165,7 +165,7 @@
             }
         },
         {
-            "id": 8,
+            "id": 18,
             "name": "TV LG 55”",
             "price": "28.000MT",
             "location": "Maputo, Moçambique",
