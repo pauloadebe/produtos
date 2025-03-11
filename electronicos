@@ -120,8 +120,69 @@
                 "Bateria": "Autonomia excelente de carga",
                 "Estado": "Novo na caixa (aberto só pra verificação)"              
             }
+        },
+
+        {
+            "id": 6,
+            "name": "HP 255 G10 RYZEN 3 7330u | Laptop",
+            "price": "33.000MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-4.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-6.jpg"
+               
+            ],
+            "description": "Seja para estudar, trabalhar ou se divertir, o Acer Aspire 3 A315 entrega o melhor custo-benefício! Com um hardware eficiente, este notebook combina desempenho sólido com um design moderno e funcional. A tela de alta definição garante imagens nítidas, enquanto o armazenamento rápido permite que você abra aplicativos e arquivos sem demora. Se você busca qualidade e confiabilidade, este é o notebook ideal para você!",
+            "specifications": {
+                "Processador": "G10 RYZEN 3 7330u",
+                "Memoria RAM": "8GB",
+                "Armazenamento": "512GB SSD",
+                "Bateria": "Autonomia excelente de carga e vem com o respectivo carregador"
+                           
+            }
+        },
+
+        {
+            "id": 12,
+            "name": "SSD SATA 256GB",
+            "price": "1.800MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/SSD1.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/SSD1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/SSD.jpg"
+               
+            ],
+            "description": "O SSD Adata 256GB oferece alta velocidade de leitura e gravação, proporcionando um desempenho superior em comparação com os HDs convencionais. Com tecnologia NVMe ou SATA (dependendo do modelo), ele reduz significativamente o tempo de inicialização do sistema, melhora a resposta dos programas e agiliza a transferência de arquivos.Além disso, conta com um design compacto e resistência aprimorada contra impactos e vibrações, tornando-o uma excelente escolha para quem deseja aumentar a velocidade e a confiabilidade do seu computador ou notebook.",
+            "specifications": {
+                "Armazenamento": "256GB"
+                           
+            }
+        },
+        {
+            "id": 13,
+            "name": "TV LG 55”",
+            "price": "28.000MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/tvlg.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/tvlg.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/tvlg1.jpg"
+               
+            ],
+            "description": "Smart TV LG de 55”, com imagem nítida, som potente e acesso a apps como Netflix e YouTube. Conta com entradas HDMI e USB para conectar dispositivos. Usada, mas em ótimo funcionamento, sem defeitos na tela ou no sistema.Aproveite",
+            "specifications": {
+                "Modelo": " 55lh595v SUL AFRICANA",
+                "Tech": "SMART FHD"
+
+                           
+            }
         }
     ]
 }
-
 
