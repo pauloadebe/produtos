@@ -287,14 +287,8 @@
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-6.jpg"
                
             ],
-            "description": "O HP 255 G10 é um notebook robusto e eficiente, ideal para quem busca desempenho e praticidade no dia a dia. Equipado com o processador AMD Ryzen 3 7330U de 4 núcleos e 8 threads, ele oferece velocidade e fluidez para multitarefas, navegação na web, estudos e até trabalhos que exigem processamento moderado.
-
-Possui uma tela antirreflexo de 15,6” com resolução HD ou Full HD (dependendo da configuração), proporcionando imagens nítidas e conforto visual. Conta com 8GB de memória RAM DDR4, expansível para um desempenho ainda melhor.
-
-Seu armazenamento pode ser um SSD de 256GB ou superior, garantindo inicializações rápidas e carregamento ágil de programas. Além disso, vem com Wi-Fi, Bluetooth, portas USB e HDMI, tornando-o versátil para diferentes necessidades.
-
-Ideal para estudantes, profissionais e usuários que buscam um laptop confiável com um ótimo custo-benefício.",
-"specifications": {
+            "description": "O HP 255 G10 é um notebook robusto e eficiente, ideal para quem busca desempenho e praticidade no dia a dia. Equipado com o processador AMD Ryzen 3 7330U de 4 núcleos e 8 threads, ele oferece velocidade e fluidez para multitarefas, navegação na web, estudos e até trabalhos que exigem processamento moderado.Possui uma tela antirreflexo de 15,6” com resolução HD ou Full HD (dependendo da configuração), proporcionando imagens nítidas e conforto visual. Conta com 8GB de memória RAM DDR4, expansível para um desempenho ainda melhor.Seu armazenamento pode ser um SSD de 256GB ou superior, garantindo inicializações rápidas e carregamento ágil de programas. Além disso, vem com Wi-Fi, Bluetooth, portas USB e HDMI, tornando-o versátil para diferentes necessidades.Ideal para estudantes, profissionais e usuários que buscam um laptop confiável com um ótimo custo-benefício.",
+            "specifications": {
                 "Processador": "G10 RYZEN 3 7330u",
                 "Memoria RAM": "8GB",
                 "Armazenamento": "512GB SSD",
@@ -313,7 +307,7 @@ Ideal para estudantes, profissionais e usuários que buscam um laptop confiável
                 "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/SSD.jpg"
                
             ],
-            "description": "Seja para estudar, trabalhar ou se divertir, o Acer Aspire 3 A315 entrega o melhor custo-benefício! Com um hardware eficiente, este notebook combina desempenho sólido com um design moderno e funcional. A tela de alta definição garante imagens nítidas, enquanto o armazenamento rápido permite que você abra aplicativos e arquivos sem demora. Se você busca qualidade e confiabilidade, este é o notebook ideal para você!",
+            "description": "O SSD Adata 256GB oferece alta velocidade de leitura e gravação, proporcionando um desempenho superior em comparação com os HDs convencionais. Com tecnologia NVMe ou SATA (dependendo do modelo), ele reduz significativamente o tempo de inicialização do sistema, melhora a resposta dos programas e agiliza a transferência de arquivos.Além disso, conta com um design compacto e resistência aprimorada contra impactos e vibrações, tornando-o uma excelente escolha para quem deseja aumentar a velocidade e a confiabilidade do seu computador ou notebook.",
             "specifications": {
                 "Armazenamento": "256GB"
                            
