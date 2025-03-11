@@ -148,7 +148,7 @@
         },
 
         {
-            "id": 12,
+            "id": 7,
             "name": "SSD SATA 256GB",
             "price": "1.800MT",
             "location": "Maputo, Moçambique",
@@ -165,7 +165,7 @@
             }
         },
         {
-            "id": 13,
+            "id": 8,
             "name": "TV LG 55”",
             "price": "28.000MT",
             "location": "Maputo, Moçambique",
