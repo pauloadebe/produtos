@@ -147,7 +147,7 @@
         {
             "id": 7,
             "name": "Honda Fit Rs | Carro",
-            "price": "300.000M | Negociavel",
+            "price": "300.000MT | Negociavel",
             "location": "Maputo, Moçambique",
             "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/fit1.jpg",
             "images": [
@@ -267,9 +267,228 @@
                 "Start": "Botão",
                 "AC": "Dual zone",
                 "Interior": "Creme, Leatherseat’s, Botões no volante ",
-                "Documentação": "Sensores de estacionamento" ,
-                "Tech": "Legal" ,
+                "Documentação": "Legal " ,
+                "Tech": "Sensores de estacionamento" ,
                 "Jantes": "Especiais"              
+            }
+        },
+        {
+            "id": 11,
+            "name": "HP 255 G10 RYZEN 3 7330u | Laptop",
+            "price": "33.000MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-4.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/lep2-6.jpg"
+               
+            ],
+            "description": "Seja para estudar, trabalhar ou se divertir, o Acer Aspire 3 A315 entrega o melhor custo-benefício! Com um hardware eficiente, este notebook combina desempenho sólido com um design moderno e funcional. A tela de alta definição garante imagens nítidas, enquanto o armazenamento rápido permite que você abra aplicativos e arquivos sem demora. Se você busca qualidade e confiabilidade, este é o notebook ideal para você!",
+            "specifications": {
+                "Processador": "G10 RYZEN 3 7330u",
+                "Memoria RAM": "8GB",
+                "Armazenamento": "512GB SSD",
+                "Bateria": "Autonomia excelente de carga e vem com o respectivo carregador"
+                           
+            }
+        },
+        {
+            "id": 12,
+            "name": "SSD SATA 256GB",
+            "price": "1.800MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/SSD1.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/SSD1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/SSD.jpg"
+               
+            ],
+            "description": "Seja para estudar, trabalhar ou se divertir, o Acer Aspire 3 A315 entrega o melhor custo-benefício! Com um hardware eficiente, este notebook combina desempenho sólido com um design moderno e funcional. A tela de alta definição garante imagens nítidas, enquanto o armazenamento rápido permite que você abra aplicativos e arquivos sem demora. Se você busca qualidade e confiabilidade, este é o notebook ideal para você!",
+            "specifications": {
+                "Armazenamento": "256GB"
+                           
+            }
+        },
+
+        {
+            "id": 13,
+            "name": "Mercedes Benz C63 AMG",
+            "price": "2.500.000MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc12.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/mazda17.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc6.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc7.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc8.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc9.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc10.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc11.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc12.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc13.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc14.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc15.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/merc16.jpg"
+               
+            ],
+            "description": "Sinta a adrenalina pulsar com este Mercedes-Benz C63 AMG. Um ícone de desempenho e luxo, equipado com um motor V8 biturbo que entrega uma potência brutal e uma aceleração impressionante. Cada curva, cada reta, cada segundo ao volante é uma experiência única. Se você busca sofisticação com DNA esportivo, este é o carro certo para você. Dirija mais do que um carro – assuma o comando de uma lenda.",
+            "specifications": {
+                "Motor": "6.3 V8",
+                "Modelo": "C63 AMG",
+                "Start": "Botão",
+                "Tech": "Sunroof" ,
+                "Interior": "Bancos de leather",
+                "Documentação": "Legal " ,
+                "Quilometragem": "63.000km" ,
+                "Estado": "Novo | Recem chegado" ,
+                "Pneus": "Novos"              
+            }
+        },
+        {
+            "id": 14,
+            "name": "TOYOTA  D4D DAKAR",
+            "price": "1.600.000MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/d4d9.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/d4d.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/d4d2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/d4d3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/d4d4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/d4d5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/d4d6.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/d4d7.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/d4d8.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/d4d9.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/d4d10.jpg"
+               
+            ],
+            "description": "Robustez e resistência definem este Toyota D4D Dakar. Criado para enfrentar qualquer terreno, este é o veículo ideal para quem busca confiabilidade, potência e segurança em qualquer jornada. Seja na cidade ou no off-road, ele não decepciona. Suspensão reforçada, motor potente e um design imponente fazem dele um verdadeiro guerreiro das estradas. Domine qualquer caminho com este Toyota D4D Dakar.",
+            "specifications": {
+                "Motor": "3.0 Diesel",
+                "Modelo": "2014",
+                "Start": "Chave",
+                "AC": "ON",
+                "Rádio": "Bluetooth/ Flash",
+                "Interior": "Black Leather Site",
+                "Documentação": "Legalidade 100%" ,
+                "Tech": "Camera Trazeira, Daylight  Zenon  " ,
+                "Pneus": "Novos DUNLOP" ,
+                "Estado": "Impecável" ,
+                "Jantes": "Especiais"              
+            }
+        },
+        {
+            "id": 15,
+            "name": "Toyota alphard ",
+            "price": "2.500.000MT | Negociável",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph3.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph6.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph7.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph8.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph9.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph10.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph11.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/alph12.jpg"
+               
+            ],
+            "description": "A experiência de viajar nunca mais será a mesma com este Alphard. Espaçoso, luxuoso e projetado para oferecer o máximo de conforto, este é o carro perfeito para quem valoriza sofisticação e comodidade. Bancos premium, acabamento refinado e tecnologia de ponta tornam cada trajeto uma verdadeira primeira classe sobre rodas. Não apenas viaje – viva a experiência do luxo em movimento.",
+            "specifications": {
+                "Motor": "3.5 v6",
+                "Modelo": "2017",
+                "Start": "Botão",
+                "Quilometragem": "49.000km"  ,
+                "Lugares": "7"  ,
+                "Pneus": "Novos",
+                "Interior": " preto",
+                "Tech": "Duplo sunroof, Camera retaguarda, Botoes no volante, Sportligths " ,
+                "Documentação": "Legal " ,
+                "Estado": "Super novo" 
+                
+
+                            
+            }
+        },
+        {
+            "id": 16,
+            "name": "TOYOTA LAND CRUISER PRADO",
+            "price": "350.000MT",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/prad4.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/prad4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/prad1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/prad2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/prad3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/prad.jpg"
+               
+            ],
+            "description": "Força, resistência e prestígio se encontram neste Prado. Um SUV lendário, projetado para quem exige potência sem abrir mão do conforto. Seja para aventuras radicais ou para a rotina diária, ele entrega um desempenho excepcional, aliado à sofisticação que só um Land Cruiser pode oferecer. Vá além dos limites com estilo e confiança.",
+            "specifications": {
+                "Motor": "3.4 Gasolina",
+                "Modelo": "1998",
+                "Suporte": "Escadas laterais",
+                "AC": "EM CONDIÇÕES ",
+                "Caixa": "Automático 4x4"               
+            }
+        },
+        {
+            "id": 17,
+            "name": "Nissan Patrol",
+            "price": "3.100.000MT | Negociável",
+            "location": "Maputo, Moçambique",
+            "image": "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr9.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr1.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr2.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr3.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr4.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr5.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr6.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr7.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr8.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr9.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr10.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr11.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr12.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr13.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr14.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr15.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr16.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr17.jpg",
+                "https://raw.githubusercontent.com/pauloadebe/produtos/refs/heads/main/produtos/patr18.jpg"
+               
+            ],
+            "description": "Este Patrol não é apenas um SUV, é uma declaração de poder. Equipado com um motor robusto, tecnologia avançada e um interior luxuoso, ele redefine o conceito de dirigir com autoridade. Seu desempenho off-road é incomparável, enquanto seu design imponente impõe respeito por onde passa. Para quem exige força, conforto e imponência, este carro é a escolha definitiva.",
+            "specifications": {
+                "Motor": "V8 5.6L",
+                "Caixa": "Automática 4x4",
+                "Modelo": "2018",
+                "Quilometragem": "83.000km",
+                "Revisão": "Feita",
+                "Lugares": "8",
+                "Interior": "Bancos em couro ", 
+                "Rádio": "DVD Bluetooth" ,
+                "Tech": "Tv por trás dos acentos,  Sunroof , Botões no volante , Comando no volante, Sensor de estacionamento" ,
+                "-": "Comprado no agente Motor Care"              
             }
         }
         
